@@ -1,6 +1,7 @@
-body{
+body {
     background-color: #ecf0f1;
 }
+
 h1 {
     color: #25ff2a;
 }
@@ -11,4 +12,13 @@ h1 {
 
 .cursor {
     cursor: pointer;
+}
+
+.form,
+.greeting {
+    display: none;
+}
+
+.showing {
+    display: block;
 }

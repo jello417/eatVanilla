@@ -10,6 +10,10 @@ const CLICKED_CLASS = "clicked";
 //     }
 // }
 
+// classList에 있는 메소드
+// .add().remove().toggle()
+// .contains()→ T / F 불린값 리턴
+
 // function clicking() {
 //     const CURRENT_CLASS = title.className;
 //     const CLASS_CONDI = title.classList.contains(CLICKED_CLASS);
