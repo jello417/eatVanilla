@@ -25,10 +25,10 @@ const CLICKED_CLASS = "clicked";
 // }
 
 function clicking() {
-    title.classList.toggle(CLICKED_CLASS);
+  title.classList.toggle(CLICKED_CLASS);
 }
 
 function init() {
-    title.addEventListener("click", clicking);
+  title.addEventListener("click", clicking);
 }
 init();
