@@ -34,6 +34,7 @@ body {
 }
 
 .controls__btns button {
+  /* all속성 : element에 적용된 값들을 초기화  */
   all: unset;
   cursor: pointer;
   background-color: white;
